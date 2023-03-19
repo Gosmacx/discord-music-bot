@@ -19,7 +19,11 @@ Discord **music module** with example bot 🔥.
 
 ## Bot Commands
 `play` -> Playing a music with keyword or youtube video link
+    <br>
 `pause` -> Pause music
+<br>
 `unpause` -> Unpause music
+<br>
 `skip` -> Skip next music
+<br>
 `stop` -> Stop player
